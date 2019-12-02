@@ -1,0 +1,8 @@
+prefix=/home/jon/catkin_ws/devel/.private/self_drive
+
+Name: self_drive
+Description: Description of self_drive
+Version: 1.0.0
+Cflags: 
+Libs: -L/home/jon/catkin_ws/devel/.private/self_drive/lib 
+Requires: geometry_msgs rospy sensor_msgs std_msgs
